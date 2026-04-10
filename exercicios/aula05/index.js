@@ -32,6 +32,7 @@ export function verificarAprovacao(nota) {
 } else{
     return "reprovado";
  }
+}
 
 // Exercício 4 — somarPares
 export function somarPares(numeros = []) {
@@ -55,3 +56,4 @@ export function contarLetra(texto, letra) {
   }
   return resultado;
 }
+
